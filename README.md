@@ -3,4 +3,6 @@ Password generator.
 Generate random alphanumeric passwords with 14 characters.
 
 # Usage:
-'''$ sudo /script_dir/mkpasswd '''
+'''bash
+$ sudo /script_dir/mkpasswd 
+'''
